@@ -82,18 +82,22 @@ in_menu: true
         <!-- Ci-dessous 3 points à retenir sur votre candidat·e (faire court !) -->
         <ul>
           <li>
-            Point à retenir sur notre candidat·e numéro 1
+            Co-gérant de la Société Coopérative d'Intérêt Collectif "Énergies Renouvelables Pays de Rance"
           </li>
           <li>
-            Point à retenir sur notre candidat·e numéro 2
+            Maire de Languédias, adhérent du réseau Bruded, Vice-Président de Dinan Agglomération en charge de la Culture, des Sports et de la Citoyenneté.
           </li>
           <li>
-            Point à retenir sur notre candidat·e numéro 3
+            41 ans et père de 2 enfants
           </li>
         </ul>
       
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p>
+        <p>Présent et investi depuis toujours sur le territoire, je suis ingénieur agricole de formation. En 2008, avec un collectif engagé, nous avons créé une coopérative autour de la filière bois.</p>
+        <p>Tous les jours sur le terrain, auprès des agriculteurs, des élus, des citoyens nous travaillons pour une écologie pragmatique et concertée. Maire de Languédias depuis 10 ans, j'ai pu, avec les équipes municipales, les agents, la population, transformer notre village en y recréant du lien, des festivités, des commerces, des logements, des espaces de loisirs pour la jeunesse, tout en protégeant notre cadre de vie et notre environnement.</p>
+        <p>Vice-Président de Dinan Agglomération je m'implique tous les jours pour développer et diffuser la culture et le sport pour tou.te.s et partout.</p>
+        <p>Fort de tous ces engagements et expériences concrètes, je mettrai mon énergie et mes compétences au service de notre pays et de notre belle circonscription.</p>
+            <p><strong>Comptez sur moi pour réparer nos services publics, relever les défis de l'urgence sociale et du climat. Retrouvons ainsi le chemin de l'apaisement.</strong></p>
       </div>
     </article>
   
@@ -109,18 +113,18 @@ in_menu: true
         <!-- Ci-dessous 3 points à retenir sur votre remplaçant·e (faire court !) -->
         <ul>
           <li>
-            Point à retenir sur notre suppléant·e 1
+            Professeure des écoles
           </li>
           <li>
-            Point à retenir sur notre suppléant·e 2
+            Adjointe à la ville de Dinan en charge des services aux habitants et de l'inclusion
           </li>
           <li>
-            Point à retenir sur notre suppléant·e 3
+            49 ans et maman de 2 enfants
           </li>
         </ul>
 
         <!-- Ci-dessous un petit texte reprenant 2 ou 3 mesures nationales en les déclinant sur les impacts locaux. -->
-        <p>Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux. Paragraphe à remplacer par votre texte sur les enjeux locaux.</p>
+        <p>Je suis depuis toujours attachée aux valeurs de liberté et de justice que je retrouve après avoir cru au mirage macronien.</p>
       </div>
     </article>
   </div>

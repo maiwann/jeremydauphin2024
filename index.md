@@ -15,7 +15,7 @@ in_menu: true
 
 <section class="entete">
   <div>
-    <img alt="Jérémy Dauphin candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+    <img alt="Jérémy Dauphin candidat pour le Front Populaire le 30 juin" src="./images/22-02_JDauphin-SMeal.JPG">
 
     <div class="buttons">
       <div>
@@ -73,7 +73,7 @@ in_menu: true
     <article>
       <div>
         <!-- Ci-dessous la photo de votre candidat·e -->
-        <img alt="Jérémy Dauphin candidat pour le Front Populaire le 30 juin" src="./images/candidate-1.png">
+        <img alt="Jérémy Dauphin candidat pour le Front Populaire le 30 juin" src="./images/22-02_Jeremy Dauphin.JPG">
       </div>
 
       <div>
@@ -100,7 +100,7 @@ in_menu: true
     <article>
       <div>
         <!-- Si besoin car non présent·e sur la 1e photo, ci-dessous la photo de votre suppléant·e -->
-        <img alt="Stéphanie Méal remplaçante pour le Front Populaire le 30 juin" src="./images/candidate-2.png">
+        <img alt="Stéphanie Méal remplaçante pour le Front Populaire le 30 juin" src="./images/22-02_Stephanie Meal.JPG">
       </div>
 
       <div>

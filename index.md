@@ -133,7 +133,7 @@ in_menu: true
 <section class="contact">
   <div>
     <h2>Nous contacter</h2>
-    <p>Écrivez-nous à <a href="mailto:#">nomdumail@blabla.com</a></p>
+    <p>Écrivez-nous à <a href="mailto:#">contact@frontpopulaire22-02.fr</a></p>
   </div>
 </section>
 
@@ -166,7 +166,7 @@ in_menu: true
   
     <h2>Votez par procuration</h2>
   
-    <p>Il vous suffit de connaitre votre numéro de bureau de vote.</p>
+    <p>Il vous suffit de connaître votre numéro de bureau de vote.</p>
 
     <div class="buttons">
       <div>
@@ -204,5 +204,5 @@ in_menu: true
 </section>
 
 <section class="footer">
-    Candidature de la X circonscription de Y.
+    Candidature de la Nouvelle Union populaire circonscription 02 des Côtes d'Armor.
 </section> 

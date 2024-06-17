@@ -3,6 +3,11 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+<meta property="og:title" content="Jérémy Dauphin — Nouveau Front Populaire" />
+        <meta property="og:description" content="Le 30 juin et le 7 juillet, votez Jérémy Dauphin et Stéphanie Méal, pour le Nouveau Front Populaire." />
+        <meta property="og:image" content="https://dinandivercite.fr/2024/og_elections.jpg" />
+        <link rel="icon" type="image/png" href="https://dinandivercite.fr/2024/favicon.png" />
+
 <header>
   <div>
     <img src="./images/logo-NFP.png" alt="Nouveau Front Populaire" />

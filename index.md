@@ -199,7 +199,7 @@ in_menu: true
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites votez autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Nom de ville 1, Nom de ville 2, Nom de ville 3… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice à Aucaleuc, Bobital, La Bouillie, Bourseul, Broons, Brusvily, Caulnes, Calorguen, La Chapelle-Blanche, Les Champs-Géraux, Corseul, Créhen, Dinan-Léhon, Éréac, Erquy, Évran, Fréhel, Gomené, Guenroc, Guitté, Hénanbihen, Le Hinglé, Illifaut, Landébia, La Landec, Languédias, Languenan, Lanrelas, Lanvallay, Laurenan, Loscouët-sur-Meu, Matignon, Mégrit, Merdrignac, Mérillac, Plancoët, Planguenoual, Pléboulle, Plélan-le-Petit, Pléneuf-Val-André, Pleudihen-sur-Rance, Pléven, Plévenon, Plorec-sur-Arguenon, Plouasne, Pluduno, Plumaudan, Plumaugat, Plurien, Quévert, Le Quiou, Rouillac, Ruca, Saint-Alban, Saint-André-des-Eaux, Saint-Carné, Saint-Cast-le-Guildo, Saint-Denoual, Saint-Hélen, Saint-Jacut-de-la-Mer, Saint-Jouan-de-l'Isle, Saint-Judoce, Saint-Juvat, Saint-Launeuc, Saint-Lormel, Saint-Maden, Saint-Maudez, Saint-Méloir-des-Bois, Saint-Michel-de-Plélan, Saint-Pôtan, Saint-Vran, Sévignac, Trébédan, Trédias, Tréfumel, Trélivan, Trémeur, Trémorel, Trévron, Vildé-Guingalan, Yvignac-la-Tour, … chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
 </section>
 

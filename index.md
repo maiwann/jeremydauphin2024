@@ -14,7 +14,7 @@ in_menu: true
   </div>
 
   <div>
-    <h1>Le 30 juin et le 7 juillet, <br />votez Jérémy Dauphin !</h1>
+    <h1>Le 30 juin et le 7 juillet,<br />votez Jérémy Dauphin !</h1>
   </div>
 </header>
 

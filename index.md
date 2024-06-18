@@ -140,7 +140,7 @@ in_menu: true
   </div>
 </section>
 
-<section class="contact">
+<section id="contact">
   <div>
     <h2>Nous contacter</h2>
     <p>Écrivez-nous à <a href="mailto:contact@frontpopulaire22-02.fr">contact@frontpopulaire22-02.fr</a></p>

@@ -20,6 +20,7 @@ in_menu: true
 
 <section class="entete">
   <div>
+  <p> Élections législatives des 30 juin et 7 juillet 2024 − 2e circonscription des Côtes d’Armor (Dinan)</p>
     <img alt="Jérémy Dauphin candidat pour le Front Populaire le 30 juin" src="./images/22-02_JDauphin-SMeal.JPG">
 
     <div class="buttons">
@@ -29,6 +30,10 @@ in_menu: true
 
       <div>
         <a href="#procuration" class="btn">Faire une procuration</a>
+      </div>
+
+      <div>
+        <a href="#contact" class="btn">Nous contacter</a>
       </div>
     </div>
   </div>
@@ -171,14 +176,11 @@ in_menu: true
   
     <h2>Votez par procuration</h2>
   
-    <p>Il vous suffit de connaître votre numéro de bureau de vote.</p>
+    <p>Contactez nous à l’adresse <a href="mailto:contact@frontpopulaire22-02.fr">contact@frontpopulaire22-02.fr</a> en nous indiquant votre nom, la commune dans lequel vous votez, si c’est pour le 1er ou 2e tour ou les deux, et nous vous mettrons en relation avec un électeur avec qui vous pourrez faire une procuration.</p>
 
     <div class="buttons">
       <div>
-         <a href="https://actionpopulaire.fr/procuration" class="btn">Faire une procuration</a>
-      </div>
-      <div>
-        <a href="#inscription" class="btn">Trouver mon bureau de vote</a>
+        <a href="#contact" class="btn">Nous contacter</a>
       </div>
     </div>
   </div>
@@ -204,10 +206,10 @@ in_menu: true
     <h2>Le 30&nbsp;juin et le 7&nbsp;juillet, votez et faites votez autour de vous !</h2>
     
     <!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-    <p>Que vous soyez électeur ou électrice à Aucaleuc, Bobital, La Bouillie, Bourseul, Broons, Brusvily, Caulnes, Calorguen, La Chapelle-Blanche, Les Champs-Géraux, Corseul, Créhen, Dinan-Léhon, Éréac, Erquy, Évran, Fréhel, Gomené, Guenroc, Guitté, Hénanbihen, Le Hinglé, Illifaut, Landébia, La Landec, Languédias, Languenan, Lanrelas, Lanvallay, Laurenan, Loscouët-sur-Meu, Matignon, Mégrit, Merdrignac, Mérillac, Plancoët, Planguenoual, Pléboulle, Plélan-le-Petit, Pléneuf-Val-André, Pleudihen-sur-Rance, Pléven, Plévenon, Plorec-sur-Arguenon, Plouasne, Pluduno, Plumaudan, Plumaugat, Plurien, Quévert, Le Quiou, Rouillac, Ruca, Saint-Alban, Saint-André-des-Eaux, Saint-Carné, Saint-Cast-le-Guildo, Saint-Denoual, Saint-Hélen, Saint-Jacut-de-la-Mer, Saint-Jouan-de-l'Isle, Saint-Judoce, Saint-Juvat, Saint-Launeuc, Saint-Lormel, Saint-Maden, Saint-Maudez, Saint-Méloir-des-Bois, Saint-Michel-de-Plélan, Saint-Pôtan, Saint-Vran, Sévignac, Trébédan, Trédias, Tréfumel, Trélivan, Trémeur, Trémorel, Trévron, Vildé-Guingalan, Yvignac-la-Tour, … chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
+    <p>Que vous soyez électeur ou électrice à Aucaleuc, Bobital, La Bouillie, Bourseul, Broons, Brusvily, Caulnes, Calorguen, La Chapelle-Blanche, Les Champs-Géraux, Corseul, Créhen, Dinan-Léhon, Éréac, Erquy, Évran, Fréhel, Gomené, Guenroc, Guitté, Hénanbihen, Le Hinglé, Illifaut, Landébia, La Landec, Languédias, Languenan, Lanrelas, Lanvallay, Laurenan, Loscouët-sur-Meu, Matignon, Mégrit, Merdrignac, Mérillac, Plancoët, Planguenoual, Pléboulle, Plélan-le-Petit, Pléneuf-Val-André, Pleudihen-sur-Rance, Pléven, Plévenon, Plorec-sur-Arguenon, Plouasne, Pluduno, Plumaudan, Plumaugat, Plurien, Quévert, Le Quiou, Rouillac, Ruca, Saint-Alban, Saint-André-des-Eaux, Saint-Carné, Saint-Cast-le-Guildo, Saint-Denoual, Saint-Hélen, Saint-Jacut-de-la-Mer, Saint-Jouan-de-l'Isle, Saint-Judoce, Saint-Juvat, Saint-Launeuc, Saint-Lormel, Saint-Maden, Saint-Maudez, Saint-Méloir-des-Bois, Saint-Michel-de-Plélan, Saint-Pôtan, Saint-Vran, Sévignac, Trébédan, Trédias, Tréfumel, Trélivan, Trémeur, Trémorel, Trévron, Vildé-Guingalan, Yvignac-la-Tour… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
   </div>
 </section>
 
 <section class="footer">
-    Candidature de la Nouvelle Union populaire circonscription 02 des Côtes d'Armor.
+    Candidature du Nouveau Front Populaire - 2e circonscription des Côtes d'Armor (Dinan).
 </section> 

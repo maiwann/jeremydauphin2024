@@ -7,7 +7,6 @@ in_menu: true
 <meta property="og:description" content="Le 30 juin et le 7 juillet, votez Jérémy Dauphin et Stéphanie Méal, pour le Nouveau Front Populaire." />
 <meta property="og:image" content="https://dinandivercite.fr/2024/og_elections.jpg" />
 <link rel="icon" type="image/png" href="https://dinandivercite.fr/2024/favicon.png" />
-<title>Jérémy Dauphin - Candidature du Nouveau Front Populaire − 2e circonscription des Côtes d'Armor (Dinan) </title>
 
 <header>
   <div>
@@ -21,7 +20,7 @@ in_menu: true
 
 <section class="entete">
   <div>
-  <p> Élections législatives des 30 juin et 7 juillet 2024 <br /> 2e circonscription des Côtes d’Armor (Dinan)</p>
+  <p>Élections législatives des 30 juin et 7 juillet 2024 - 2e circonscription des Côtes d’Armor (Dinan)</p>
     <img alt="Jérémy Dauphin candidat pour le Front Populaire le 30 juin" src="./images/22-02_JDauphin-SMeal.JPG">
 
     <div class="buttons">

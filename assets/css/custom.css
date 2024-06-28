@@ -1,3 +1,13 @@
 :root {
     --couleur-primaire : #e4302f;
 }
+
+#contact ul {
+  display: flex;
+  gap: 2rem;
+  list-style: "";
+  margin-bottom: 2rem;
+  padding-left: 0;
+  justify-content: center;
+  align-items: baseline;
+}

@@ -158,9 +158,6 @@ in_menu: true
       <li><a href="https://www.tiktok.com/@jeremydauphin2202">
         <img alt="logo tiktok" src="./images/tiktok.svg">
       </a></li>
-      <li><a href="https://www.linkedin.com/in/jeremydauphin2202">
-        <img alt="logo linkedin" src="./images/linkedin.svg">
-      </a></li>
     </ul>
   </div>
 </section>

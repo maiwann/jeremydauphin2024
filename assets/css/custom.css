@@ -4,10 +4,14 @@
 
 #contact ul {
   display: flex;
-  gap: 2rem;
+  gap: 6rem;
   list-style: "";
   margin-bottom: 2rem;
   padding-left: 0;
   justify-content: center;
   align-items: baseline;
+}
+
+#contact li { 
+min-width: 70px;
 }

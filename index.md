@@ -144,6 +144,24 @@ in_menu: true
   <div>
     <h2>Nous contacter</h2>
     <p>Écrivez-nous à <a href="mailto:contact@frontpopulaire22-02.fr">contact@frontpopulaire22-02.fr</a></p>
+
+    <ul>
+      <li><a href="https://instagram.com/jeremydauphin2202">
+          <img alt="logo instagram" src="./images/instagram.svg">
+      </a></li>
+      <li><a href="https://x.com/jeremydauphin">
+        <img alt="logo twitter" src="./images/x-twitter.svg">
+      </a></li>
+      <li><a href="https://www.facebook.com/nfp2202">
+        <img alt="logo facebook" src="./images/facebook-f.svg">
+      </a></li>
+      <li><a href="https://www.tiktok.com/@jeremydauphin2202">
+        <img alt="logo tiktok" src="./images/tiktok.svg">
+      </a></li>
+      <li><a href="https://www.linkedin.com/in/jeremydauphin2202">
+        <img alt="logo linkedin" src="./images/linkedin.svg">
+      </a></li>
+    </ul>
   </div>
 </section>
 
